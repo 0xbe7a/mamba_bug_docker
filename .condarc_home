@@ -1,0 +1,6 @@
+channel_alias: https://correct_repo.com
+channels:
+  - conda-forge
+custom_multichannels:
+  conda-forge:
+    - channel_alias

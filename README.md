@@ -1,0 +1,1 @@
+`docker build -t mm_bug . && docker run --rm mm_bug`

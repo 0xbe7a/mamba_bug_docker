@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+channel_alias:
+  https://wrong_repo.com
+custom_multichannels:
+  conda-forge:
+    - ext-conda-anaconda-forge
